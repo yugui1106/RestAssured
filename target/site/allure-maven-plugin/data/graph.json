@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "b805454930c21798",
+    "name" : "member",
+    "title" : "Member",
+    "time" : {
+      "start" : 1534934592329,
+      "stop" : 1534934593700,
+      "duration" : 1371
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

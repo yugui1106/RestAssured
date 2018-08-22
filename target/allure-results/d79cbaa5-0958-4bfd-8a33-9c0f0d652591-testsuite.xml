@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1534934578574" stop="1534934593786" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>test : test name</name>
+    <title>test : test name</title>
+    <test-cases>
+        <test-case start="1534934592329" stop="1534934593700" status="passed">
+            <name>member</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="ziweideMacBook-Pro.local"/>
+                <label name="thread" value="9006@ziweideMacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
