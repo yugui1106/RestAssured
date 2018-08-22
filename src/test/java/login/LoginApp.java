@@ -26,8 +26,8 @@ public class LoginApp {
     public static void login(){
         useRelaxedHTTPSValidation();
         Map<String, Object> jsonMap = new HashMap<String, Object>();
-        jsonMap.put("u", "18268130294");
-        jsonMap.put("p", "dxy123456");
+        jsonMap.put("u", "");
+        jsonMap.put("p", "");
         jsonMap.put("ac", AC);
         jsonMap.put("mc", MC);
         Response response = given().params(jsonMap).when().post(authUrl+"/api/login/v2");
